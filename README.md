@@ -1,6 +1,12 @@
 frontend-nanodegree-arcade-game
 ===============================
+Play the game on http://marboro92.github.io/Frogger or download the gh-pages branch files and open index.html to open the game.
+Play using your up, down, right left arrow keys to move the player while avoiding the bugs. Try to get your player across the board to the water without colliding with any bugs. If your player crashes into a bug you will have to start again! 
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+App.js has been modified from the original repo to add functionality to the game.
 
-for self-checking their submission.
+
+The following resources were used in the making of this game: 
+http://jlongster.com/Making-Sprite-based-Games-with-Canvas
+https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
+http://wiki.starling-framework.org/tutorials/basic_collision_detection
